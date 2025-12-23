@@ -72,3 +72,9 @@ contract HelperConfig is Script {
 // Refactoring III Mocks : 54:32
 // Magic numbers : 58:40
 // Refactoring III. Mocking (continued) 1:00:40
+// chisel
+// Gas cheaper withdraw : 1:33:51
+// Storage : 1:38:37
+// Gas: Cheaper withdraw : 1:48:22
+// Intraction.s.sol : 1:56:13
+// Makefile : 2:10:58
